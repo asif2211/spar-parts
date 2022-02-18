@@ -1,7 +1,7 @@
-
-**spar-parts**
+**Spar Parts Shop**
 
 This is web application that have spare parts records, display products with price , image , quantity. When product sold then remaining qty showed.It has profit and loss account that display total sales, cost of sales, profit per item sold, total profit and partner profit who's shares are 30% agains each product. This will display grand profit of all products sold that will be collective profit of the month agains each product sold out.
+
 **What's Being Used?**
 
 - [react](https://www.npmjs.com/package/react) : for managing the presentation logic of application.
